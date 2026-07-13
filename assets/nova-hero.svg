@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">NOVA Commercial AI Automation Intelligence Platform</title>
+  <desc id="desc">Technical portfolio banner showing a multi-agent orchestration fabric.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#12100e"/><stop offset="1" stop-color="#27201b"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#d66c4c" stop-opacity=".5"/><stop offset="1" stop-color="#d66c4c" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".045"/></pattern>
+    <filter id="shadow"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#000" flood-opacity=".35"/></filter>
+  </defs>
+  <rect width="1600" height="520" rx="28" fill="url(#bg)"/>
+  <rect width="1600" height="520" rx="28" fill="url(#grid)"/>
+  <circle cx="1310" cy="230" r="340" fill="url(#glow)"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="90" y="85" fill="#d66c4c" font-size="16" font-weight="700" letter-spacing="5">COMMERCIAL AI AUTOMATION INTELLIGENCE</text>
+    <text x="88" y="196" fill="#f4eee4" font-family="Georgia,serif" font-size="108" font-weight="500" letter-spacing="-5">NOVA</text>
+    <text x="94" y="247" fill="#bdb2a5" font-size="23">A stateful multi-agent orchestration fabric for technical</text>
+    <text x="94" y="281" fill="#bdb2a5" font-size="23">architecture, automation delivery and commercial strategy.</text>
+    <g transform="translate(94 334)">
+      <rect width="148" height="38" rx="19" fill="#d66c4c" fill-opacity=".13" stroke="#d66c4c" stroke-opacity=".6"/><text x="74" y="25" text-anchor="middle" fill="#f2c5b7" font-size="13" font-weight="700">42 n8n NODES</text>
+      <rect x="162" width="178" height="38" rx="19" fill="#fff" fill-opacity=".05" stroke="#fff" stroke-opacity=".18"/><text x="251" y="25" text-anchor="middle" fill="#ddd3c7" font-size="13" font-weight="700">4 GEMINI MODELS</text>
+      <rect x="354" width="182" height="38" rx="19" fill="#fff" fill-opacity=".05" stroke="#fff" stroke-opacity=".18"/><text x="445" y="25" text-anchor="middle" fill="#ddd3c7" font-size="13" font-weight="700">3 SPECIALISTS</text>
+    </g>
+    <text x="94" y="439" fill="#82786e" font-size="13" letter-spacing="2">N8N  /  GOOGLE GEMINI  /  SUPABASE  /  POSTGRESQL</text>
+  </g>
+  <g transform="translate(900 82)" filter="url(#shadow)" font-family="Inter,Segoe UI,Arial,sans-serif">
+    <path d="M140 178C225 178 217 64 310 64M140 178C235 178 235 178 330 178M140 178C225 178 217 292 310 292" fill="none" stroke="#d66c4c" stroke-width="3" stroke-opacity=".85"/>
+    <path d="M510 64C578 64 566 178 632 178M530 178H632M510 292C578 292 566 178 632 178" fill="none" stroke="#978a7d" stroke-width="2" stroke-opacity=".65"/>
+    <rect x="0" y="125" width="140" height="106" rx="18" fill="#f4eee4"/><text x="70" y="165" text-anchor="middle" fill="#9f4a34" font-size="11" font-weight="800" letter-spacing="2">ROUTING PLANE</text><text x="70" y="194" text-anchor="middle" fill="#171411" font-size="18" font-weight="700">Policy-aware</text><text x="70" y="217" text-anchor="middle" fill="#6f655c" font-size="13">request ingress</text>
+    <g fill="#211b17" stroke="#d66c4c" stroke-opacity=".65">
+      <rect x="310" y="17" width="200" height="94" rx="18"/><rect x="330" y="131" width="200" height="94" rx="18"/><rect x="310" y="245" width="200" height="94" rx="18"/>
+    </g>
+    <g fill="#f4eee4" font-size="16" font-weight="700"><text x="410" y="59" text-anchor="middle">Automation Advisor</text><text x="430" y="173" text-anchor="middle">Technical Architect</text><text x="410" y="287" text-anchor="middle">Business Strategist</text></g>
+    <g fill="#a99c8e" font-size="12"><text x="410" y="84" text-anchor="middle">WORKFLOW SYSTEMS</text><text x="430" y="198" text-anchor="middle">SECURITY + DATA</text><text x="410" y="312" text-anchor="middle">ROI + POSITIONING</text></g>
+    <rect x="632" y="125" width="150" height="106" rx="53" fill="#d66c4c"/><text x="707" y="169" text-anchor="middle" fill="#fff8ef" font-size="14" font-weight="800" letter-spacing="2">GEMINI</text><text x="707" y="195" text-anchor="middle" fill="#fff0e8" font-size="13">reasoning layer</text>
+  </g>
+</svg>
